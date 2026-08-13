@@ -13,11 +13,11 @@
 </ul>
 <h2>Download</h2>
 <p>Download the latest release from the Releases section.</p>
-<a href="https://github.com/modernw/App-Installer-For-Windows-8.x-Reset/releases" target="_blank"><img src="https://img.shields.io/github/v/release/modernw/App-Installer-For-Windows-8.x-Reset"></a>
+<a href="https://github.com/msnsports-31000/App-Installer-For-Windows-8.x-Reset/releases" target="_blank"><img src="https://img.shields.io/github/v/release/msnsports-31000/App-Installer-For-Windows-8.x-Reset"></a>
 <p>Note: Ensure that .NET Framework 4.6 is installed on your computer, as the runtime libraries automatically installed by the installer may not actually be installed on your system. Therefore, after completing the installation via the installer, be sure to download and run the .NET Framework 4.6 runtime library installer again.</p>
 <p>Note 2: The x86 runtime library must be installed, as the program itself is compiled for the x86 architecture. (Unless the program is compiled for the ARM architecture, in which case the ARM runtime library must be installed.)</p>
-<a href="https://github.com/modernw/App-Installer-For-Windows-8.x-Reset/releases/tag/0.0.0.0" target="blank">Download Runtime Libraries</a><br>
-<a href="https://github.com/modernw/App-Installer-For-Windows-8.x-Reset/releases/download/0.0.0.1/depsinstaller.zip" target="blank">Download Dependencies for Metro Apps</a>
+<a href="https://github.com/msnsports-31000/App-Installer-For-Windows-8.x-Reset/releases/tag/0.0.0.0" target="blank">Download Runtime Libraries</a><br>
+<a href="https://github.com/msnsports-31000/App-Installer-For-Windows-8.x-Reset/releases/download/0.0.0.1/depsinstaller.zip" target="blank">Download Dependencies for Metro Apps</a>
 <h2>Attention</h2>
 <ul>
   <li><del>This program is an x86 program, not an ARM application, not cross-platform, and cannot be used on Windows RT.</del></li>
@@ -25,9 +25,9 @@
   <li>(Important) Internet Explorer must support TLS 1.2 (requiring the use of IE's XMLHttpRequest to retrieve update information), especially IE10. You can do this by opening the "Advanced" tab in Control Panel/Internet Explorer's "Internet Options," finding "Use TLS 1.2" and checking the box, then clicking "OK" and saving. The settings will take effect the next time you open the browser.<br><img width="300" height="395" alt="屏幕截图 2025-12-08 103450" src="https://github.com/user-attachments/assets/69ee21ca-7f47-4d56-8dde-37e5704776c1" /></li>
 </ul>
 <h2>Special Thanks</h2>
-<a href="https://github.com/modernw/App-Installer-For-Windows-8.x-Reset/graphs/contributors">
+<a href="https://github.com/msnsports-31000/App-Installer-For-Windows-8.x-Reset/graphs/contributors">
   <!-- Made with [contrib.rocks](https://contrib.rocks). -->
-  <img src="https://contrib.rocks/image?repo=modernw/App-Installer-For-Windows-8.x-Reset" />
+  <img src="https://contrib.rocks/image?repo=msnsports-31000/App-Installer-For-Windows-8.x-Reset" />
 </a>
 <hr>
 <p>(Translated by Google Translate)</p>
